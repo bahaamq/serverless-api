@@ -1,5 +1,7 @@
 # serverless-api
 
+See The uml , click on the below link https://miro.com/app/board/o9J_l4maVfk=/
+
 
 Root URL:
 https://xrxr793smh.execute-api.us-east-1.amazonaws.com/people/
